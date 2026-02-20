@@ -5,7 +5,7 @@ class Database {
     private $host = "127.0.0.1";
     private $db_name = "sistema_pacientes";
     private $username = "root";
-    private $password = "r2W64su_t~-~";
+    private $password = "";
     private $conn;
 
     public function connect() {
