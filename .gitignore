@@ -1,0 +1,4 @@
+/vendor/
+.env
+hash.php
+node_modules/
